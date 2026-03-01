@@ -63,7 +63,7 @@ Customer churn is a critical metric for subscription-based businesses. This appl
 ### Step-by-Step Installation
 
 1. Clone the repository
-   git clone https://github.com/SupreethaShetty80/customer-churn-prediction.git
+   git clone https://github.com/SupreethaShetty80/churn-prediction-app
    cd customer-churn-prediction
 
 2. Create and activate virtual environment
@@ -116,7 +116,7 @@ joblib==1.3.2
 
 ## 📧 Contact
 
-Project Link: https://github.com/SupreethaShetty80/customer-churn-prediction
+Project Link: https://github.com/SupreethaShetty80/churn-prediction-app
 
 ---
 
